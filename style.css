@@ -123,7 +123,7 @@ html {
   max-width: 700px;
 }
 .nav-left > p {
-  padding: 2.5rem 0;
+  padding: 2rem 0;
 }
 .nav-left > h2 {
   color: var(--btn-primary);
@@ -153,7 +153,6 @@ html {
 }
 .nav-right > img {
   width: 100%;
-  
 }
 
 /* About */
@@ -206,7 +205,7 @@ h4 {
     flex-direction: column;
   }
   .nav-left {
-    padding: 4rem;
+    padding: 4rem 0;
   }
 }
 /*  Portfolio*/
