@@ -185,6 +185,7 @@ h4 {
 }
 .icon {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 1rem;
   font-size: 1.2rem;
