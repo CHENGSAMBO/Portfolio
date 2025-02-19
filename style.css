@@ -193,7 +193,7 @@ h4 {
 .icon > i {
   border: 2px solid var(--text-color);
   border-radius: 50%;
-  padding: 5px;
+  padding: 3px;
 }
 @media screen and (max-width: 750px) {
   .grid-about {
