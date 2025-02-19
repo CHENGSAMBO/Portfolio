@@ -376,6 +376,7 @@ textarea {
 }
 .location {
   display: block;
+  flex-wrap: wrap;
 }
 @media screen and (max-width: 780px) {
   .footer {
